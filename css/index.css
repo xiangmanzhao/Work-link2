@@ -1,0 +1,40 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.bg{
+	background: #000;
+}
+.wai{
+	margin: 0 auto;
+	height:100%;
+	width:100%;
+}
+.page1{
+	margin: 0 auto;
+	height:596px;
+	width:808px;
+	margin-top: 20px;
+	
+}
+
+.nei{
+	margin: 0 auto;	
+	width:1191px;
+	margin-top: 230px;
+	
+}
+.page2{
+		
+	margin-top: 150px;
+	margin-bottom: 20px;
+}
+.page3, .page4, .page5, .page6, .page7, .page8, .page9, .page10, .page11, .page12, .page13, .page14, .page15, .page16, .page17{
+	margin-bottom: 20px;
+}
+.di{
+	margin: 0 auto;
+	height:596px;
+	width:808px;
+	margin-top: 10px;
+}
